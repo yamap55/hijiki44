@@ -16,7 +16,7 @@
 
 ## 書籍
 ### HTML & CSS 標準デザイン講座
-- [ ] CHAPTER 01： HTML で文書を作成する
+- [x] CHAPTER 01： HTML で文書を作成する
 - [ ] CHAPTER 02： CSS で文書を装飾する
 - [ ] CHAPTER 03： CSS レイアウトの基本
 - [ ] CHAPTER 04： 本格的な Web 製作のための設計と準備
@@ -26,8 +26,8 @@
 - [ ] CHAPTER 08： CSS3 入門
 
 ### プロになるための Web デザイン入門講座
-- [ ] CHAPTER 01： Web に求められるデザインって何だろう？
-- [ ] CHAPTER 02： 必要なアプリケーションと画像についての基礎知識
+- [x] CHAPTER 01： Web に求められるデザインって何だろう？
+- [x] CHAPTER 02： 必要なアプリケーションと画像についての基礎知識
 - [ ] CHAPTER 03： Photoshop を Web デザインで効率的に使う方法
 - [ ] CHAPTER 04： 必要な場面で Illustrator を使えるようにしておこう
 - [ ] CHAPTER 05： バナーのデザインでひと通りのテクニックを身につけよう
