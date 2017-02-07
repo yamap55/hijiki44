@@ -19,7 +19,7 @@
 - [x] CHAPTER 01： HTML で文書を作成する
 - [x] CHAPTER 02： CSS で文書を装飾する
 - [x] CHAPTER 03： CSS レイアウトの基本
-- [ ] CHAPTER 04： 本格的な Web 製作のための設計と準備
+- [x] CHAPTER 04： 本格的な Web 製作のための設計と準備
 - [ ] CHAPTER 05： 実践的な Web サイトのコーディング
 - [ ] CHAPTER 06： jQuery で Web ページに動きを追加する
 - [ ] CHAPTER 07： HTML5 入門
