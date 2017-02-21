@@ -30,6 +30,6 @@
 - [x] CHAPTER 02： 必要なアプリケーションと画像についての基礎知識
 - [x] CHAPTER 03： Photoshop を Web デザインで効率的に使う方法
 - [x] CHAPTER 04： 必要な場面で Illustrator を使えるようにしておこう
-- [ ] CHAPTER 05： バナーのデザインでひと通りのテクニックを身につけよう
+- [x] CHAPTER 05： バナーのデザインでひと通りのテクニックを身につけよう
 - [ ] CHAPTER 06： 標準的なワークフローに沿って Web サイトをデザインしてみよう
 - [ ] CHAPTER 07： Dreamweaver によるコーディングの基礎を学ぼう
